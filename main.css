@@ -1,0 +1,49 @@
+* {
+  margin: 0
+}
+html, body {
+height: 100%;
+}
+
+.test {
+background: gold;
+width: 150px;
+height: 150px;
+margin: 50px;
+overflow: hidden;
+float: left;
+}
+
+.mainBox {
+width: 300px;
+height: 200px;
+margin: 50px;
+overflow: hidden;
+border: 1px solid black;
+}
+
+.box {
+  width: 300px;
+  height: 800px;
+  border: 1px solid black;
+  background: #f17f97;
+  position: relative;
+}
+.b1 {
+  width: 300px;
+  height: 180px;
+  margin-bottom: 20px;
+  border: 1px solid black;
+  background: green;
+}
+
+.boxForImg{
+  border: 1px solid black;
+  width: auto;
+}
+.four-in-line {
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  border: 1px solid black;
+}
